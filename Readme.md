@@ -1,5 +1,7 @@
 # NetflixGRPT
 1. Create React Project and set up tailwind
+2. Set up Git
+3. 
 
 # Features for Netflix GPT
 - Login/ Signup Page
